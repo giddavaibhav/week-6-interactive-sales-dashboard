@@ -1,0 +1,30 @@
+TEST CASES
+
+✓ Dataset loads successfully.
+
+✓ Missing values checked.
+
+✓ Duplicate records removed.
+
+✓ Monthly sales calculated correctly.
+
+✓ Product-wise sales generated.
+
+✓ Region-wise sales generated.
+
+✓ Bar chart created successfully.
+
+✓ Box plot created successfully.
+
+✓ Violin plot created successfully.
+
+✓ Correlation heatmap generated.
+
+✓ Line chart generated.
+
+✓ Interactive Plotly dashboard exported as HTML.
+
+✓ Dashboard summary displays correct business insights.
+
+Result:
+All test cases passed successfully.
